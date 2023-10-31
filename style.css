@@ -4,7 +4,7 @@
 }
 .contenido-header {
 	height: 70vh;
-	background-image: url(/img/Jewelry_Toys.jpg);
+	background-image: url(./img/Jewelry_Toys.jpg);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -24,7 +24,7 @@
     
 }
 body{
-    background-image: url('/img/pexels-monstera-production-6621233.jpg');
+    background-image: url('./img/pexels-monstera-production-6621233.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0;
