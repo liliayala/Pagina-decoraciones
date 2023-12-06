@@ -48,11 +48,6 @@ body{
 
 
 
-.pie-pagina{
-    padding: 30px;
-    
-
-}
 .redes-sociales {
     display: flex;
     
@@ -108,7 +103,7 @@ body{
   }
   .imagenes-semanales{
     font-size: 20px;
-    margin: 5%;
+    margin: 3%;
     text-align: center;
     
 
